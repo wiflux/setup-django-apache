@@ -1,4 +1,8 @@
 # How to Serve Django Applications with Apache and mod_wsgi on Ubuntu 16.04 LST
+Author : <wiflux@gmail.com> Dharminder Singh Negi
+### Project home:
+   https://wiflux.github.io/setup-django-apache/
+   
 ### Step 1 : Install Apache
 ```sh
 $ sudo apt-get update
@@ -92,8 +96,6 @@ Referance : https://docs.djangoproject.com/en/1.11/howto/deployment/wsgi/modwsgi
 ### Step 11: Final Test 
 Now open your domain name i.e http://mysite.com or your server ip address i.e http://192.168.100.23 into your browser. 
 
-Author : <wiflux@gmail.com> Dharminder Singh Negi
-### Project home:
-   https://wiflux.github.io/setup-django-apache/
+
 
 
